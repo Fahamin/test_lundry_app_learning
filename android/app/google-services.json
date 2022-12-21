@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "516619520034",
+    "project_id": "testlaundry-b536a",
+    "storage_bucket": "testlaundry-b536a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516619520034:android:4a20f952f0f2f13555227b",
+        "android_client_info": {
+          "package_name": "com.fahim.flutter.test_lundry_app_learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516619520034-4upvbjfces1v5c2biq4c85gi0i8bmn81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDdqb5sMBJxPzBwfZFZeuoBrFv2mgI6ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516619520034-4upvbjfces1v5c2biq4c85gi0i8bmn81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>516619520034-jqfd2581nmntueu6p5hag8pihpmd2sem.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.516619520034-jqfd2581nmntueu6p5hag8pihpmd2sem</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD8MNVPbojT9opyoY72bSx5C-lcQf7tvKE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>516619520034</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.fahim.flutter.testLundryAppLearning</string>
+	<key>PROJECT_ID</key>
+	<string>testlaundry-b536a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>testlaundry-b536a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:516619520034:ios:1092e7f30aec66e855227b</string>
+</dict>
+</plist>
